@@ -1,6 +1,6 @@
 <template>
   <div class="missions">
-      <h1>MISSIONS</h1>
+      <h1>LAUNCHES</h1>
   </div>
 </template>
 
@@ -8,7 +8,7 @@
 // @ is an alias to /src
 
 export default {
-  name: "missions",
+  name: "launches",
   components: {}
 };
 </script>
